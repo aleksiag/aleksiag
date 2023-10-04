@@ -5,8 +5,10 @@
 - 💞️ I’m looking to collaborate with other programming students.
 - 📫 How to reach me gerdhugia25@wpsma.org
 
-### Published Work
-[Example 1]
+### Code.org GameLab
+[Robot Face](https://aleksiag.github.io/RobotFace/)
+> In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
+
 <!---
 aleksiag/aleksiag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
