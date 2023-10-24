@@ -13,4 +13,4 @@
 > In this project I used random numbers, sprites, variables, and many shapes to create a scene from the children's book "The Hungry Catterpillar".
 
 [Interactive Card] (https://studio.code.org/projects/gamelab/Ij4JCrzG5w7XjALoQWzJKTBn9QVPobZA8SEivBOBqrU)
-> In tgus project I used multiple sprites with updated properties, conditionals responding to user input, and additonal conditonals that were triggered by a sprite property.
+> In this project I used multiple sprites with updated properties, conditionals responding to user input, and additonal conditonals that were triggered by a sprite property.
