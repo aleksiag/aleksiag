@@ -10,7 +10,7 @@
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
 [Captioned Scenes](https://studio.code.org/projects/gamelab/LGWsL2KYnQowYCdzN2PAnSDlXHomySmGA9LKj4LQFgY)
-> In this project I used random numbers, sprites, variables, and many shapes to create a scene from the children's book "The Hungry Catterpillar".
+> In this project I used random numbers, sprites, variables, and many shapes to create a scene from the children's book "The Hungry Caterpillar".
 
 [Interactive Card](https://studio.code.org/projects/gamelab/Ij4JCrzG5w7XjALoQWzJKTBn9QVPobZA8SEivBOBqrU)
 > In this project I used multiple sprites with updated properties, conditionals responding to user input, and additonal conditonals that were triggered by a sprite property.
