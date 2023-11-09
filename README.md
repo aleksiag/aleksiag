@@ -19,4 +19,4 @@
 > In this project I used sprites, controls, and various interactions to create a side scroller game.
 
 [Flyer Game](https://studio.code.org/projects/gamelab/PRY0-StNae3vhSQobhLq0-Ne-CEkNPjd0PtQUBNczKk)
-< In this project I used different types of collisions to create a simple flyer game.
+> In this project I used different types of collisions to create a simple flyer game.
