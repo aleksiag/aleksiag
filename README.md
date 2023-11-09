@@ -16,4 +16,4 @@
 > In this project I used multiple sprites with updated properties, conditionals responding to user input, and additonal conditonals that were triggered by a sprite property.
 
 [Side Scroller](https://studio.code.org/projects/gamelab/dsGjFQRS4UDzsUmT36QHVgqecHx6_Xs85YLt8Els9ig)
-> In this project I used different types of collisions to create a simple flyer game.
+> In this project I used sprites, controls, and various interactions to create a side scroller game.
