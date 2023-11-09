@@ -15,5 +15,5 @@
 [Interactive Card](https://studio.code.org/projects/gamelab/Ij4JCrzG5w7XjALoQWzJKTBn9QVPobZA8SEivBOBqrU)
 > In this project I used multiple sprites with updated properties, conditionals responding to user input, and additonal conditonals that were triggered by a sprite property.
 
-[Side Scroller] (https://studio.code.org/projects/gamelab/PRY0-StNae3vhSQobhLq0-Ne-CEkNPjd0PtQUBNczKk)
+[Side Scroller](https://studio.code.org/projects/gamelab/PRY0-StNae3vhSQobhLq0-Ne-CEkNPjd0PtQUBNczKk)
 > In this project I used different types of collisions to create a simple flyer game.
