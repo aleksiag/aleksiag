@@ -20,3 +20,6 @@
 
 [Flyer Game](https://studio.code.org/projects/gamelab/PRY0-StNae3vhSQobhLq0-Ne-CEkNPjd0PtQUBNczKk)
 > In this project I used different types of collisions to create a simple flyer game.
+
+[Design Game](https://studio.code.org/projects/gamelab/_cy3mgv5UiGlrnfH65i_J3cLNBdkk6JY-dbeAUQvfB8)
+> In this project, I used 3 backgrounds, different types of user inputs, multiple sprite interactions, complex movements, and variable values such as a score to design a game.
