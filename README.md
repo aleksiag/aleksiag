@@ -23,3 +23,12 @@
 
 [Design Game](https://studio.code.org/projects/gamelab/_cy3mgv5UiGlrnfH65i_J3cLNBdkk6JY-dbeAUQvfB8)
 > In this project, I used 3 backgrounds, different types of user inputs, multiple sprite interactions, complex movements, and variable values such as a score to design a game.
+
+[Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=e73c83bb-213f-4f3a-a1ac-8dcd57aa259b)
+> In this project, I used the MIT App Inventor programming application to create a animal sound app.
+
+[My Piano](https://gallery.appinventor.mit.edu/?galleryid=42a2d56d-22d8-4222-b1e3-60243101b586)
+> In this project, I used the App Inventor Blocks Editor by applying the computational practices that assist in developing and testing an app in stages to create a piano playing app.
+
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=275aaaae-e55e-4516-a849-978afaa08d80)
+> In this project, I used the Layout components in App Inventor to control placement of components in their apps to create a intrument playing app.
