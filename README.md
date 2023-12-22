@@ -32,3 +32,6 @@
 
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=275aaaae-e55e-4516-a849-978afaa08d80)
 > In this project, I used the Layout components in App Inventor to control placement of components in their apps to create a intrument playing app.
+
+[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=3b9a8f1f-d454-4460-b4f4-8ff1afbfc137)
+> In this project, I featured a Ball sprite that moves through the maze based on the user interaction of tilting the smartphone or tablet to create a maze game app.
