@@ -35,3 +35,6 @@
 
 [Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=3b9a8f1f-d454-4460-b4f4-8ff1afbfc137)
 > In this project, I featured a Ball sprite that moves through the maze based on the user interaction of tilting the smartphone or tablet to create a maze game app.
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=51687273-fd3d-4ec7-92e4-58e1434a1c52)
+> In this project, I created an app where the user controls a red ball with a flinging action. The ball chases food ImageSprites to “eat” and grow in size. A green ball must be avoided. If the red ball collides with the green ball, the game ends. 
