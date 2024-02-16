@@ -37,4 +37,7 @@
 > In this project, I featured a Ball sprite that moves through the maze based on the user interaction of tilting the smartphone or tablet to create a maze game app.
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=51687273-fd3d-4ec7-92e4-58e1434a1c52)
-> In this project, I used variables correctly to store data and additionally used conditionals to correctly check two values within a program to create an app where the user controls a red ball with a flinging action. 
+> In this project, I used variables correctly to store data and additionally used conditionals to correctly check two values within a program to create an app where the user controls a red ball with a flinging action.
+
+[Creative Task Unit 1](https://academy.cs.cmu.edu/exercise/4132/)
+> In this project, I used the coding elements I have learned thus far in Unit 1 (Creating Drawings) to create a project of my own design.
