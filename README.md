@@ -41,3 +41,6 @@
 
 [Creative Task Unit 1](https://academy.cs.cmu.edu/exercise/4132/)
 > In this project, I used the coding elements I have learned thus far in Unit 1 (Creating Drawings) to create a project of my own design.
+
+[Creative Task Unit 2](https://academy.cs.cmu.edu/sharing/linenWolf5794)
+> In this project, I used functions, mouse events, and properties to create a project.
